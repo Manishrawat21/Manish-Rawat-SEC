@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about  Networking, IoT, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-  Rawatmanish21@outlook.com
+  Rawatmanish21@outlook.com /
   www.linkedin.com/in/rawat-manish-mr2000
 
 <!---
