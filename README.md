@@ -8,9 +8,9 @@ I build detection pipelines that catch real attacks. Tested systems that connect
 
 ## 🎯 What I Do
 
-**Detection Engineering** — Write & validate detection rules (Sigma, Splunk, YARA, Elastic) that catch real APT behavior  
-**SOC Automation** — Design end-to-end alert workflows (detection → enrichment → investigation → notification)  
-**Threat Analysis** — Break down APT techniques and build detections from real data
+**Detection Engineering :-** Write & validate detection rules (Sigma, Splunk, YARA, Elastic) that catch real APT behavior  
+**SOC Automation :-** Design end-to-end alert workflows (detection → enrichment → investigation → notification)  
+**Threat Analysis :-** Break down APT techniques and build detections from real data
 
 ---
 
