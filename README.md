@@ -9,13 +9,13 @@ I am a Detection Engineer and SOC (Security Operations Center) Automation Specia
 
 ## 📚 Articles and Insights
 I regularly share my knowledge and insights on cybersecurity topics. Check out my articles on Medium:
-- [Article Title 1](https://medium.com/example1)
-- [Article Title 2](https://medium.com/example2)
-- [Article Title 3](https://medium.com/example3)
+- [The PowerShell Detection Gap That’s Costing Organizations Millions](https://systemweakness.com/the-powershell-detection-gap-thats-costing-organizations-millions-e9aad28fffc4?source=friends_link&sk=afe4f365726351b108baaae325fef02d)
+- [Hunting APT29 in 196,071 Logs: What I Found in EventID 1](https://medium.com/the-first-digit/hunting-apt29-in-196-071-logs-what-i-found-in-eventid-1-65a5d850a21d)
+- [37 Sysmon Events. One Complete DLL Hijacking Attack. Here’s What Happened.](https://medium.com/system-weakness/37-sysmon-events-one-complete-dll-hijacking-attack-heres-what-happened-09076f2e38c5)
 
 ## 📊 Badges
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
 ![Remote Work](https://img.shields.io/badge/Open%20to%20Remote%20Work-brightgreen)
 
 ## 📩 Contact 
-I am open to discussing remote work opportunities. Feel free to connect with me on [Twitter](https://twitter.com/example) or [LinkedIn](https://linkedin.com/in/example).
+I am open to discussing remote work opportunities. Feel free to connect with me on [Substack](https://manishrawat21.substack.com) or [LinkedIn](https://www.linkedin.com/in/manishrawat-soc/).
