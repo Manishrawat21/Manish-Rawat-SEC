@@ -16,7 +16,7 @@ I build detection pipelines that catch real attacks. Tested systems that connect
 
 ## 🔬 Featured Work
 
-### SOC Automation Lab ⭐ (7 stars)
+### SOC Automation Lab ⭐ (8 stars)
 **End-to-end pipeline:** Caldera attack sim → Wazuh detection → N8N enrichment → Velociraptor forensics
 
 - 🎬 [Watch Full Demo](https://youtu.be/FNTELJc-1KU)
@@ -47,9 +47,13 @@ Wazuh | Splunk | Elastic | Sigma | N8N | Velociraptor | VirusTotal | YARA | Powe
 
 ## 📊 Expertise
 Detection Engineering ████████████████████ 95% 
+
 SIEM Administration ███████████████░░░░░ 80% 
+
 Log Analysis ███████████████░░░░░ 80% APT 
+
 Threat Analysis ██████████████░░░░░░ 75% 
+
 Automation & Scripting ██████████░░░░░░░░░░ 60%
 
 
