@@ -25,14 +25,14 @@ I build detection pipelines that catch real attacks. Tested systems that connect
 
 **Stack:** Wazuh | N8N | VirusTotal | Velociraptor | MITRE Caldera
 
-### APT29 Detection Rules
+### Detection Engineering Analysis ⭐ (6 stars)
+Deep technical research on DLL hijacking, PowerShell encoding, evasion detection
+- 👉 [Analysis Repository](https://github.com/Manishrawat21/Analysis)
+
+### APT29 Detection Rules ⭐ (4 stars)
 Validated Sigma + Splunk rules tested against 196,071 real Sysmon events
 - 👉 [Detection Rules](https://github.com/Manishrawat21/Detection-Rules)
-- 👉 [SIGMA Rules](https://github.com/Manishrawat21/SIGMA-Rules)
 
-### Detection Engineering Analysis
-Deep technical research on DLL hijacking, PowerShell encoding, evasion detection
-- 👉 [Analysis Repository](https://github.com/Manishrawat21/Analysis) (6 stars)
 
 ### YARA Threat Hunting
 Practical guide to malware detection using YARA rules
